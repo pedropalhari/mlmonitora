@@ -1,5 +1,5 @@
 @echo off
-title pau no teu cu
+title ML Notifier
 mode con: cols=70 lines=30
 
 
